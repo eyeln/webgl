@@ -17,4 +17,4 @@ Used to set the network
 */
 
 window.web3NetworkId = 137;
-window.web3NetworkName = "Polygon"
+window.web3NetworkName = "Matic"
